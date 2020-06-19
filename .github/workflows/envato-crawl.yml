@@ -16,4 +16,4 @@ jobs:
       - name: Setting Up Envato API
         run: |
           cd scripts/envato-api && composer install --no-dev
-          php app.php
+          php app.php ${{ secrets.ENVATO_TOKEN }}
