@@ -1,0 +1,5 @@
+{
+  "require" : {
+	"morningtrain/envato-api" : "^1.0"
+  }
+}
