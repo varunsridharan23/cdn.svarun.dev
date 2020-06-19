@@ -17,3 +17,17 @@ jobs:
         run: |
           cd scripts/envato-api && composer install --no-dev
           php app.php ${{ secrets.ENVATO_TOKEN }}
+      - name: 🚀 Publishing To Github
+        run: |
+          git config --global user.email "githubactionbot@gmail.com" && git config --global user.name "Envato Products Updated !"
+          if [ "$(git status --porcelain)" != "" ]; then
+            echo "👌 Website Published"
+            git add ./envato/.
+            git commit -m "📖 #$GITHUB_RUN_NUMBER - Envato Products Data Updated / ⚡ Triggered By $GITHUB_SHA"
+            git push origin
+          else
+            echo "✅ Nothing To Push"
+          fi
+        env:
+          GLOBAL_GH_TOKEN: ${{ secrets.GLOBAL_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
