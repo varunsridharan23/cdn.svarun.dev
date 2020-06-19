@@ -1,6 +1,8 @@
 name: On Push
 
 on:
+  schedule:
+    - cron: '*/60 * * * *'
   push:
     branches:
       - master
@@ -9,21 +11,21 @@ jobs:
   Update_GH_Pages:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetching Repository
+      - name: 📩 Fetching Repository
         uses: actions/checkout@v2
       - name: 💽 Installing Composer
         uses: nanasess/composer-installer-action@master
-      - name: Setting Up Envato API
+      - name: ⚒️ Setting Up Envato API
         run: |
           cd scripts/envato-api && composer install --no-dev
           php app.php ${{ secrets.ENVATO_TOKEN }}
       - name: 🚀 Publishing To Github
         run: |
-          git config --global user.email "githubactionbot@gmail.com" && git config --global user.name "Envato Products Updated !"
+          git config --global user.email "githubactionbot@gmail.com" && git config --global user.name "Envato Items Updated !"
           if [ "$(git status --porcelain)" != "" ]; then
-            echo "👌 Website Published"
+            echo "👌 Items JSON Updated"
             git add ./envato/.
-            git commit -m "📖 #$GITHUB_RUN_NUMBER - Envato Products Data Updated / ⚡ Triggered By $GITHUB_SHA"
+            git commit -m "📖 #$GITHUB_RUN_NUMBER - Envato Items Data Updated / ⚡ Triggered By $GITHUB_SHA"
             git push origin
           else
             echo "✅ Nothing To Push"
