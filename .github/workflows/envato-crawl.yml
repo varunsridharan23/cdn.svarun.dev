@@ -29,5 +29,4 @@ jobs:
             echo "✅ Nothing To Push"
           fi
         env:
-          GLOBAL_GH_TOKEN: ${{ secrets.GLOBAL_GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
