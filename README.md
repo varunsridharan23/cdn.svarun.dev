@@ -1,1 +1,5 @@
-Simple Repo that contains all my images thats used in all my Github repos
+# Content Delivery Network
+
+This CDN System Uses Github's Fastly Service 
+
+And This Provides Only Files That I Personally Need Which I Use Daily
