@@ -10,10 +10,8 @@ use MorningTrain\EnvatoApi\EnvatoApi;
 try {
 	require APP_PATH . 'vendor/autoload.php';
 
-	$final   = array();
-	$token   = ( isset( $argv[1] ) ) ? trim( $argv[1], '/' ) : false;
-	$save_to = ( isset( $argv[2] ) ) ? $argv[2] : APP_PATH . 'items.json';
-
+	$final = array();
+	$token = ( isset( $argv[1] ) ) ? trim( $argv[1], '/' ) : false;
 
 	if ( empty( $token ) ) {
 		throw new Exception( 'Invalid Envato Token' );
@@ -48,9 +46,8 @@ try {
 			}
 		}
 
-		if ( ! empty( $save_to ) ) {
-			file_put_contents( $save_to, json_encode( $final ) );
-		}
+		@mkdir( APP_PATH . '../../envato/' );
+		@file_put_contents( APP_PATH . '../../envato/items.json', json_encode( $final ) );
 	}
 } catch ( \Exception $exception ) {
 	$msg = '🛑 Unknown Error !!' . PHP_EOL . PHP_EOL;
