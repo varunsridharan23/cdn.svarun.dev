@@ -11,9 +11,10 @@ jobs:
     steps:
       - name: Fetching Repository
         uses: actions/checkout@v2
+      - name: Setting Up
+        run: cd scripts/envato-api
       - name: 💽 Installing Composer
         uses: pxgamer/composer-action@master
       - name: Setting Up Envato API
         run: |
-          cd scripts/envato-api && composer install --no-dev
           php scripts/envato-api/app.php
