@@ -25,7 +25,7 @@ jobs:
           php app.php
       - name: 🚀 Publishing To Github
         run: |
-          git config --global user.email "githubactionbot@gmail.com" && git config --global user.name "Envato Items Updated !"
+          git config --global user.email "githubactionbot+envato@gmail.com" && git config --global user.name "Envato Items Updated !"
           if [ "$(git status ./envato/ --porcelain)" != "" ]; then
             echo "👌 Envato Items JSON Updated"
             git add ./envato/.
