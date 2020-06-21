@@ -8,6 +8,7 @@ if ( ! file_exists( APP_PATH . 'vendor/autoload.php' ) ) {
 
 try {
 	require APP_PATH . 'vendor/autoload.php';
+	require APP_PATH . 'functions.php';
 	require APP_PATH . 'WporgClient.php';
 	require APP_PATH . 'WporgService.php';
 	$wporgClient = \Rarst\Guzzle\WporgClient::getClient();
@@ -31,10 +32,11 @@ try {
 			unset( $data['compatibility'] );
 			unset( $data['donate_link'] );
 			unset( $data['versions'] );
-			$final[] = $data;
+			$data['mini_slug'] = slugify( $data['slug'] );
+			$final[]           = $data;
 		}
 		@mkdir( APP_PATH . '../../wordpress.org/' );
-		@file_put_contents( APP_PATH . '../../wordpress.org/plugins.json', json_encode( $final,JSON_PRETTY_PRINT ) );
+		@file_put_contents( APP_PATH . '../../wordpress.org/plugins.json', json_encode( $final, JSON_PRETTY_PRINT ) );
 	}
 } catch ( Exception $exception ) {
 	$msg = '🛑 Unknown Error !!' . PHP_EOL . PHP_EOL;

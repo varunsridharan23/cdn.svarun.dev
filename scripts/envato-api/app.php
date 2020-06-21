@@ -32,23 +32,8 @@ try {
 			$data['site']         = $item->site;
 			$data['url']          = $item->url;
 
-			$slug         = '';
-			$data['slug'] = strtolower( preg_replace( '~[^\pL\d]+~u', '-', $item->name ) );
-			$slug_gen     = explode( '-', $data['slug'] );
-			if ( is_array( $slug_gen ) ) {
-				foreach ( $slug_gen as $slugi ) {
-					$slugi = trim( strtolower( $slugi ) );
-					if ( in_array( $slugi, array( 'wc', 'WC', 'WooCommerce', 'woocommerce' ) ) ) {
-						$slug .= 'wc';
-					} elseif ( in_array( $slugi, array( 'for', 'FOR' ) ) ) {
-						$slug .= '';
-					} else {
-						$slug .= sanitize_key( $slugi[0] );
-					}
-				}
-			}
-
-			$data['mini_slug'] = $slug;
+			$data['slug']      = strtolower( preg_replace( '~[^\pL\d]+~u', '-', $item->name ) );
+			$data['mini_slug'] = slugify( $data['slug'] );
 
 			if ( isset( $item->previews->icon_with_video_preview ) ) {
 				$data['banner'] = $item->previews->icon_with_video_preview->landscape_url;
