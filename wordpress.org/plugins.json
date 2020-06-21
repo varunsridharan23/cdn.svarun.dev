@@ -251,7 +251,7 @@
                 "caption": "API Settings"
             }
         },
-        "mini_slug": "cisi"
+        "mini_slug": "cf7isi"
     },
     {
         "name": "Live Admin Customizer",
@@ -365,7 +365,7 @@
         "tested": "5.4.2",
         "requires_php": false,
         "rating": 82,
-        "downloaded": 34768,
+        "downloaded": 34771,
         "last_updated": "2020-06-14 8:46am GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -613,7 +613,7 @@
                 "caption": "Settings Page"
             }
         },
-        "mini_slug": "sswc"
+        "mini_slug": "skuswc"
     },
     {
         "name": "WC Previously Bought Product Notifier",
@@ -849,7 +849,7 @@
                 "caption": false
             }
         },
-        "mini_slug": "wtcl"
+        "mini_slug": "wptcl"
     },
     {
         "name": "WP User Role Renamer",
@@ -866,6 +866,6 @@
         "short_description": "Developer Friendly User role renamer Addon Can Work With any plugin if got integrated",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wp-user-role-renamer.1.0.zip",
         "screenshots": [],
-        "mini_slug": "wurr"
+        "mini_slug": "wpurr"
     }
 ]
