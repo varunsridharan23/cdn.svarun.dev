@@ -34,7 +34,7 @@ try {
 			$final[] = $data;
 		}
 		@mkdir( APP_PATH . '../../wordpress.org/' );
-		@file_put_contents( APP_PATH . '../../wordpress.org/plugins.json', json_encode( $final ) );
+		@file_put_contents( APP_PATH . '../../wordpress.org/plugins.json', json_encode( $final,JSON_PRETTY_PRINT ) );
 	}
 } catch ( Exception $exception ) {
 	$msg = '🛑 Unknown Error !!' . PHP_EOL . PHP_EOL;

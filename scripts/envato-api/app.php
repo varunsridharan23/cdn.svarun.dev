@@ -67,7 +67,7 @@ try {
 		}
 
 		@mkdir( APP_PATH . '../../envato/' );
-		@file_put_contents( APP_PATH . '../../envato/items.json', json_encode( $final ) );
+		@file_put_contents( APP_PATH . '../../envato/items.json', json_encode( $final, JSON_PRETTY_PRINT ) );
 	}
 } catch ( \Exception $exception ) {
 	$msg = '🛑 Unknown Error !!' . PHP_EOL . PHP_EOL;
