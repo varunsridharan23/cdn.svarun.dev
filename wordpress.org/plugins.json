@@ -22,7 +22,8 @@
                 "src": "https:\/\/ps.w.org\/aiirs-artificial-intelligence-image-resizer\/assets\/screenshot-2.png?rev=1331776",
                 "caption": "Image Size Mapper"
             }
-        }
+        },
+        "mini_slug": "aaiir"
     },
     {
         "name": "Attributes Menu Manager For WooCommerce",
@@ -55,7 +56,8 @@
                 "src": "https:\/\/ps.w.org\/woocommerce-attributes-menu-manager\/assets\/screenshot-4.png?rev=1330962",
                 "caption": "WordPress Admin Menu Page"
             }
-        }
+        },
+        "mini_slug": "wcamm"
     },
     {
         "name": "Better Grouped Products For WooCommerce",
@@ -84,7 +86,8 @@
                 "src": "https:\/\/ps.w.org\/wc-better-grouped-products\/assets\/screenshot-3.png?rev=1589664",
                 "caption": "WooCommerce With Image Style"
             }
-        }
+        },
+        "mini_slug": "wcbgp"
     },
     {
         "name": "Broken Url Notifier",
@@ -121,7 +124,8 @@
                 "src": "https:\/\/ps.w.org\/broken-url-notifier\/assets\/screenshot-5.png?rev=1298467",
                 "caption": "Reports Page"
             }
-        }
+        },
+        "mini_slug": "bun"
     },
     {
         "name": "Bulk Attribute Manager For Woocommerce",
@@ -150,7 +154,8 @@
                 "src": "https:\/\/ps.w.org\/woocommerce-bulk-attribute-manager\/trunk\/screenshot-3.png?rev=2080241",
                 "caption": "Attribute Settings"
             }
-        }
+        },
+        "mini_slug": "wcbam"
     },
     {
         "name": "Estimated Dispatch Date For WooCommerce",
@@ -211,7 +216,8 @@
                 "src": "https:\/\/ps.w.org\/estimated-dispatch-date-woocommerce\/assets\/screenshot-11.png?rev=1367698",
                 "caption": "Admin Order Edit View"
             }
-        }
+        },
+        "mini_slug": "eddwc"
     },
     {
         "name": "International Sms For Contact Form 7 Integration",
@@ -244,7 +250,8 @@
                 "src": "https:\/\/ps.w.org\/cf7-international-sms-integration\/assets\/screenshot-4.png?rev=1296580",
                 "caption": "API Settings"
             }
-        }
+        },
+        "mini_slug": "cisi"
     },
     {
         "name": "Live Admin Customizer",
@@ -285,7 +292,8 @@
                 "src": "https:\/\/ps.w.org\/live-admin-customzier\/assets\/screenshot-6.png?rev=1331774",
                 "caption": "Matt 3 Color Admin Theme"
             }
-        }
+        },
+        "mini_slug": "lac"
     },
     {
         "name": "Product Brands For WooCommerce",
@@ -346,7 +354,8 @@
                 "src": "https:\/\/ps.w.org\/product-brands-for-woocommerce\/assets\/screenshot-11.jpg?rev=1795671",
                 "caption": "Quick Shortcode Generator"
             }
-        }
+        },
+        "mini_slug": "pbwc"
     },
     {
         "name": "Product Subtitle For WooCommerce",
@@ -423,7 +432,8 @@
                 "src": "https:\/\/ps.w.org\/wc-product-subtitle\/assets\/screenshot-15.jpg?rev=2321403",
                 "caption": "Admin Order Page"
             }
-        }
+        },
+        "mini_slug": "wcps"
     },
     {
         "name": "Quick Buy For Woocommerce",
@@ -437,7 +447,7 @@
         "last_updated": "2020-06-14 8:40am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.7.3.zip",
         "screenshots": {
             "1": {
@@ -460,7 +470,8 @@
                 "src": "https:\/\/ps.w.org\/woocommerce-quick-buy\/assets\/screenshot-5.jpg?rev=2157616",
                 "caption": "WC Quick Buy Settings"
             }
-        }
+        },
+        "mini_slug": "wcqb"
     },
     {
         "name": "Quick Donation For WooCommerce",
@@ -513,7 +524,8 @@
                 "src": "https:\/\/ps.w.org\/woocommerce-quick-donation\/assets\/screenshot-9.png?rev=1270345",
                 "caption": "Donation Order Success View"
             }
-        }
+        },
+        "mini_slug": "wcqd"
     },
     {
         "name": "Role Based Price For WooCommerce",
@@ -574,7 +586,8 @@
                 "src": "https:\/\/ps.w.org\/woocommerce-role-based-price\/assets\/screenshot-11.png?rev=1582463",
                 "caption": "Aelia Currency Switcher Variable Product Editor"
             }
-        }
+        },
+        "mini_slug": "wcrbp"
     },
     {
         "name": "SKU Shortlink For WooCommerce",
@@ -599,7 +612,8 @@
                 "src": "https:\/\/ps.w.org\/sku-shortlink-for-woocommerce\/assets\/screenshot-2.jpg?rev=2086797",
                 "caption": "Settings Page"
             }
-        }
+        },
+        "mini_slug": "sswc"
     },
     {
         "name": "WC Previously Bought Product Notifier",
@@ -648,7 +662,8 @@
                 "src": "https:\/\/ps.w.org\/wc-previously-bought-product-notifier\/assets\/screenshot-8.png?rev=1700267",
                 "caption": "Shortcode Order Listing V2"
             }
-        }
+        },
+        "mini_slug": "wcpbpn"
     },
     {
         "name": "WC Product Stock Status",
@@ -709,7 +724,8 @@
                 "src": "https:\/\/ps.w.org\/wc-product-stock-status\/assets\/screenshot-11.png?rev=1699371",
                 "caption": "Single Variation Stock Status"
             }
-        }
+        },
+        "mini_slug": "wcpss"
     },
     {
         "name": "WC User Role Based Coupon",
@@ -730,7 +746,8 @@
                 "src": "https:\/\/ps.w.org\/wc-user-role-based-coupon\/assets\/screenshot-1.png?rev=1276371",
                 "caption": "User Role Settings"
             }
-        }
+        },
+        "mini_slug": "wcurbc"
     },
     {
         "name": "WooCommerce Quick\/Bulk Order Form",
@@ -763,7 +780,8 @@
                 "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-4.png?rev=988576",
                 "caption": false
             }
-        }
+        },
+        "mini_slug": "wcbof"
     },
     {
         "name": "WooCommerce Single Product Checkout",
@@ -808,7 +826,8 @@
                 "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-7.jpg?rev=2290933",
                 "caption": "Product Option"
             }
-        }
+        },
+        "mini_slug": "wcspc"
     },
     {
         "name": "WordPress ToolBar Custom Link",
@@ -829,7 +848,8 @@
                 "src": "https:\/\/ps.w.org\/wp-toobar-custom-link\/trunk\/screenshot-1.png?rev=1539408",
                 "caption": false
             }
-        }
+        },
+        "mini_slug": "wtcl"
     },
     {
         "name": "WP User Role Renamer",
@@ -845,6 +865,7 @@
         "homepage": "https:\/\/wordpress.org\/plugins\/wp-user-role-renamer",
         "short_description": "Developer Friendly User role renamer Addon Can Work With any plugin if got integrated",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wp-user-role-renamer.1.0.zip",
-        "screenshots": []
+        "screenshots": [],
+        "mini_slug": "wurr"
     }
 ]
