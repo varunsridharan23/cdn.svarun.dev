@@ -8,7 +8,7 @@ if ( ! file_exists( APP_PATH . 'vendor/autoload.php' ) ) {
 
 try {
 	require APP_PATH . 'vendor/autoload.php';
-	require APP_PATH . 'functions.php';
+	require APP_PATH . '../functions.php';
 	require APP_PATH . 'WporgClient.php';
 	require APP_PATH . 'WporgService.php';
 	$wporgClient = \Rarst\Guzzle\WporgClient::getClient();
