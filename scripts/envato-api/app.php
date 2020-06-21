@@ -33,7 +33,7 @@ try {
 			$data['url']          = $item->url;
 
 			$slug         = '';
-			$data['slug'] = preg_replace( '~[^\pL\d]+~u', '-', $item->name );
+			$data['slug'] = strtolower( preg_replace( '~[^\pL\d]+~u', '-', $item->name ) );
 			$slug_gen     = explode( '-', $data['slug'] );
 			if ( is_array( $slug_gen ) ) {
 				foreach ( $slug_gen as $slugi ) {
