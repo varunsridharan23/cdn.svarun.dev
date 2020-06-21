@@ -1,0 +1,48 @@
+name: On Push
+
+on:
+  schedule:
+    - cron: '*/60 * * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  Update_GH_Pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📩 Fetching Repository
+        uses: actions/checkout@v2
+      - name: 💽 Installing Composer
+        uses: nanasess/composer-installer-action@master
+      - name: ⚒️Setting Up Envato API
+        run: |
+          cd scripts/envato-api && composer install --no-dev
+          php app.php ${{ secrets.ENVATO_TOKEN }}
+      - name: ⚒️Setting Up WordPress.org API
+        run: |
+          cd scripts/wordpress-org-api && composer install --no-dev
+          php app.php
+      - name: 🚀 Publishing To Github
+        run: |
+          git config --global user.email "githubactionbot@gmail.com" && git config --global user.name "Envato Items Updated !"
+          if [ "$(git status ./envato/ --porcelain)" != "" ]; then
+            echo "👌 Envato Items JSON Updated"
+            git add ./envato/.
+            git commit -m "📖 #$GITHUB_RUN_NUMBER - Envato Items Data Updated / ⚡ Triggered By $GITHUB_SHA"
+            git push origin
+          else
+            echo "✅ Envato Items : Nothing To Push"
+          fi
+
+          git config --global user.email "githubactionbot+wp@gmail.com" && git config --global user.name "WordPress Plugins Updated !"
+          if [ "$(git status ./wordpress.org/ --porcelain)" != "" ]; then
+            echo "👌 WordPress.org Plugins JSON Updated"
+            git add ./wordpress.org/.
+            git commit -m "📖 #$GITHUB_RUN_NUMBER - WordPress Plugins Data Updated / ⚡ Triggered By $GITHUB_SHA"
+            git push origin
+          else
+            echo "✅ Envato Items : Nothing To Push"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
