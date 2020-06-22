@@ -45,16 +45,11 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  GH_Latest_Repo:
-    runs-on: ubuntu-latest
-    needs: Update_GH_Pages
-    steps:
-      - name: 📩 Fetching Repository
-        uses: actions/checkout@v2
-      - name: 📝 Generating JSON
+      - name: 📝 GH Latest Repo Generating JSON
         uses: varunsridharan/action-gh-latest-repo@master
         with:
           GH_TOKEN: ${{secrets.GH_TOKEN}}
           GITHUB_USERNAME: "varunsridharan"
+          SAVE_LOCATION: "/gh/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
