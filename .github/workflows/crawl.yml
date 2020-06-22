@@ -3,7 +3,9 @@ name: On Push
 on:
   schedule:
     - cron: '*/60 * * * *'
-
+  push:
+    branches:
+      - master
 jobs:
   Update_GH_Pages:
     runs-on: ubuntu-latest
@@ -41,5 +43,18 @@ jobs:
           else
             echo "✅ Envato Items : Nothing To Push"
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GH_Latest_Repo:
+    runs-on: ubuntu-latest
+    needs: Update_GH_Pages
+    steps:
+      - name: 📩 Fetching Repository
+        uses: actions/checkout@v2
+      - name: 📝 Generating JSON
+        uses: varunsridharan/action-gh-latest-repo@master
+        with:
+          GH_TOKEN: ${{secrets.GH_TOKEN}}
+          GITHUB_USERNAME: "varunsridharan"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
