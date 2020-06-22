@@ -3,9 +3,6 @@ name: On Push
 on:
   schedule:
     - cron: '*/60 * * * *'
-  push:
-    branches:
-      - master
 
 jobs:
   Update_GH_Pages:
