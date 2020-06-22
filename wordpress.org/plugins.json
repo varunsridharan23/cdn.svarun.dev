@@ -535,7 +535,7 @@
         "tested": "5.2.7",
         "requires_php": false,
         "rating": 88,
-        "downloaded": 109731,
+        "downloaded": 109735,
         "last_updated": "2019-09-19 1:36am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -761,7 +761,7 @@
         "last_updated": "2020-06-02 10:19am GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
-        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single&hellip;",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.3.5.zip",
         "screenshots": {
             "1": {
