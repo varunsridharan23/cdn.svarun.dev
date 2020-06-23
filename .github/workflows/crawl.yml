@@ -16,11 +16,11 @@ jobs:
         uses: nanasess/composer-installer-action@master
       - name: ⚒️Setting Up Envato API
         run: |
-          cd scripts/envato-api && composer install --no-dev
+          cd .github/custom-scripts/envato-api && composer install --no-dev
           php app.php ${{ secrets.ENVATO_TOKEN }}
       - name: ⚒️Setting Up WordPress.org API
         run: |
-          cd scripts/wordpress-org-api && composer install --no-dev
+          cd .github/custom-scripts/wordpress-org-api && composer install --no-dev
           php app.php
       - name: 🚀 Publishing To Github
         run: |
