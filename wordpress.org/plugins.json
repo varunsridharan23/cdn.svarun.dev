@@ -231,7 +231,7 @@
         "last_updated": "2019-05-04 12:46am GMT",
         "added": "2015-11-29",
         "homepage": "http:\/\/wordpress.org\/plugins\/cf7-international-sms-integration",
-        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your&hellip;",
+        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your contact form, using the API Configured By Site Admin",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/cf7-international-sms-integration.1.2.zip",
         "screenshots": {
             "1": {
@@ -443,7 +443,7 @@
         "tested": "5.5",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 126808,
+        "downloaded": 126814,
         "last_updated": "2020-06-14 8:40am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
@@ -535,7 +535,7 @@
         "tested": "5.2.7",
         "requires_php": false,
         "rating": 88,
-        "downloaded": 109760,
+        "downloaded": 109762,
         "last_updated": "2019-09-19 1:36am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -627,7 +627,7 @@
         "last_updated": "2017-07-21 11:49am GMT",
         "added": "2017-07-21",
         "homepage": "http:\/\/wcpbpn.com",
-        "short_description": "This plugin will display notifications to shop customers about products they have already bought before with information that is customization .",
+        "short_description": "This plugin will display notifications to shop customers about products they have already bought before&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-previously-bought-product-notifier.zip",
         "screenshots": {
             "1": {
@@ -677,7 +677,7 @@
         "last_updated": "2017-07-20 6:49am GMT",
         "added": "2017-07-20",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-stock-status\/",
-        "short_description": "This plugin is used to write the custom stock status with different colors for each woocommerce product or globally, let users to know exact stock sta &hellip;",
+        "short_description": "This plugin is used to write the custom stock status with different colors for each&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-product-stock-status.zip",
         "screenshots": {
             "1": {
@@ -761,7 +761,7 @@
         "last_updated": "2020-06-02 10:19am GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
-        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.3.5.zip",
         "screenshots": {
             "1": {
@@ -791,7 +791,7 @@
         "tested": "5.4.2",
         "requires_php": "7.0",
         "rating": 80,
-        "downloaded": 8003,
+        "downloaded": 8004,
         "last_updated": "2020-06-14 8:50am GMT",
         "added": "2015-09-11",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-single-product-checkout\/",
