@@ -7,11 +7,11 @@
         "tested": "4.5.13",
         "requires_php": false,
         "rating": 0,
-        "downloaded": 974,
+        "downloaded": 975,
         "last_updated": "2016-01-20 1:26am GMT",
         "added": "2014-10-01",
         "homepage": "http:\/\/varunsridharan.in\/",
-        "short_description": "Artificial Intelligence Image Resizer allows you to \nAdd image size to crop image dynamically with using code &amp; Remap Image Size.",
+        "short_description": "Artificial Intelligence Image Resizer allows you to Add image size to crop image dynamically with&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/aiirs-artificial-intelligence-image-resizer.0.4.zip",
         "screenshots": {
             "1": {
@@ -135,7 +135,7 @@
         "tested": "4.4.23",
         "requires_php": false,
         "rating": 54,
-        "downloaded": 15567,
+        "downloaded": 15568,
         "last_updated": "2015-11-19 1:50pm GMT",
         "added": "2014-01-23",
         "homepage": "https:\/\/wordpress.org\/plugins\/Bulk%20Attribute%20Manager%20For%20Woocommerce\/",
@@ -443,11 +443,11 @@
         "tested": "5.5",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 126819,
+        "downloaded": 126824,
         "last_updated": "2020-06-14 8:40am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.7.3.zip",
         "screenshots": {
             "1": {
@@ -535,7 +535,7 @@
         "tested": "5.2.7",
         "requires_php": false,
         "rating": 88,
-        "downloaded": 109764,
+        "downloaded": 109766,
         "last_updated": "2019-09-19 1:36am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -627,7 +627,7 @@
         "last_updated": "2017-07-21 11:49am GMT",
         "added": "2017-07-21",
         "homepage": "http:\/\/wcpbpn.com",
-        "short_description": "This plugin will display notifications to shop customers about products they have already bought before with information that is customization .",
+        "short_description": "This plugin will display notifications to shop customers about products they have already bought before&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-previously-bought-product-notifier.zip",
         "screenshots": {
             "1": {
@@ -791,7 +791,7 @@
         "tested": "5.4.2",
         "requires_php": "7.0",
         "rating": 80,
-        "downloaded": 8004,
+        "downloaded": 8005,
         "last_updated": "2020-06-14 8:50am GMT",
         "added": "2015-09-11",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-single-product-checkout\/",
