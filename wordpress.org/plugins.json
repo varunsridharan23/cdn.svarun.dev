@@ -11,7 +11,7 @@
         "last_updated": "2016-01-20 1:26am GMT",
         "added": "2014-10-01",
         "homepage": "http:\/\/varunsridharan.in\/",
-        "short_description": "Artificial Intelligence Image Resizer allows you to Add image size to crop image dynamically with&hellip;",
+        "short_description": "Artificial Intelligence Image Resizer allows you to \nAdd image size to crop image dynamically with using code &amp; Remap Image Size.",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/aiirs-artificial-intelligence-image-resizer.0.4.zip",
         "screenshots": {
             "1": {
@@ -231,7 +231,7 @@
         "last_updated": "2019-05-04 12:46am GMT",
         "added": "2015-11-29",
         "homepage": "http:\/\/wordpress.org\/plugins\/cf7-international-sms-integration",
-        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your&hellip;",
+        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your contact form, using the API Configured By Site Admin",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/cf7-international-sms-integration.1.2.zip",
         "screenshots": {
             "1": {
@@ -303,7 +303,7 @@
         "tested": "5.0.10",
         "requires_php": false,
         "rating": 84,
-        "downloaded": 14625,
+        "downloaded": 14626,
         "last_updated": "2019-09-18 2:57am GMT",
         "added": "2015-10-26",
         "homepage": "https:\/\/wordpress.org\/plugins\/product-brands-for-woocommerce\/",
@@ -365,7 +365,7 @@
         "tested": "5.4.2",
         "requires_php": false,
         "rating": 82,
-        "downloaded": 35065,
+        "downloaded": 35067,
         "last_updated": "2020-06-14 8:46am GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -443,7 +443,7 @@
         "tested": "5.5",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 127090,
+        "downloaded": 127098,
         "last_updated": "2020-06-14 8:40am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
@@ -791,7 +791,7 @@
         "tested": "5.4.2",
         "requires_php": "7.0",
         "rating": 80,
-        "downloaded": 8044,
+        "downloaded": 8045,
         "last_updated": "2020-06-14 8:50am GMT",
         "added": "2015-09-11",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-single-product-checkout\/",
