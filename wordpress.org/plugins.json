@@ -231,7 +231,7 @@
         "last_updated": "2019-05-04 12:46am GMT",
         "added": "2015-11-29",
         "homepage": "http:\/\/wordpress.org\/plugins\/cf7-international-sms-integration",
-        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your contact form, using the API Configured By Site Admin",
+        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/cf7-international-sms-integration.1.2.zip",
         "screenshots": {
             "1": {
@@ -443,7 +443,7 @@
         "tested": "5.5",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 126980,
+        "downloaded": 126986,
         "last_updated": "2020-06-14 8:40am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
@@ -757,7 +757,7 @@
         "tested": "5.4.2",
         "requires_php": "5.3",
         "rating": 100,
-        "downloaded": 33857,
+        "downloaded": 33858,
         "last_updated": "2020-06-02 10:19am GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
