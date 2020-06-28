@@ -31,7 +31,7 @@ function slugify( $islug ) {
 
 function repo_names( $names ) {
 	$data = array();
-	$path = __DIR__ . '/../../gh/repo-titles.json';
+	$path = __DIR__ . '/../../json/repo-titles.json';
 	if ( file_exists( $path ) ) {
 		$data = json_decode( file_get_contents( $path ), true );
 	}
