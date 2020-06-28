@@ -18,7 +18,8 @@ try {
 
 	if ( isset( $response['info']['pages'] ) ) {
 		foreach ( $response['plugins'] as $plugin ) {
-			$data = $plugin;
+			$data                = $plugin;
+			$data['source-code'] = 'https://github.com/varunsridharan/' . $data['slug'];
 			unset( $data['author'] );
 			unset( $data['author_profile'] );
 			unset( $data['ratings'] );
