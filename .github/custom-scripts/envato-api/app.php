@@ -52,10 +52,12 @@ try {
 			} elseif ( 'themeforest.net' === $data['site'] ) {
 				$final['html'][] = $data;
 			}
+			repo_names( array( $data['slug'] => $data['name'] ) );
 		}
 
 		@mkdir( SAVE_PATH );
 		@file_put_contents( SAVE_PATH . 'items.json', json_encode( $final, JSON_PRETTY_PRINT ) );
+
 	}
 } catch ( \Exception $exception ) {
 	$msg = '🛑 Unknown Error !!' . PHP_EOL . PHP_EOL;

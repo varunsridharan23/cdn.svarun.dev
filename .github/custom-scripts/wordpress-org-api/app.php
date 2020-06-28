@@ -36,6 +36,7 @@ try {
 			unset( $data['versions'] );
 			$data['mini_slug'] = slugify( $data['slug'] );
 			$final[]           = $data;
+			repo_names( array( $data['slug'] => $data['name'] ) );
 		}
 		@mkdir( SAVE_PATH );
 		@file_put_contents( SAVE_PATH . 'plugins.json', json_encode( $final, JSON_PRETTY_PRINT ) );

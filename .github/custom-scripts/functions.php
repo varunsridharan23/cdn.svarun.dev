@@ -28,3 +28,14 @@ function slugify( $islug ) {
 	}
 	return $slug;
 }
+
+function repo_names( $names ) {
+	$data = array();
+	$path = __DIR__ . '/../../gh/repo-titles.json';
+	if ( file_exists( $path ) ) {
+		$data = json_decode( file_get_contents( $path ), true );
+	}
+
+	$data = array_merge( $names, $data );
+	@file_put_contents( $path, json_encode( $data, JSON_PRETTY_PRINT ) );
+}
