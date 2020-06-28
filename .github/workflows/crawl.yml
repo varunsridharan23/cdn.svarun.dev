@@ -6,6 +6,10 @@ on:
   push:
     branches:
       - master
+    paths:
+      - '.github/workflows/crawl.yml'
+      - '.github/custom-scripts/*.php'
+      - '.github/custom-scripts/*/*.php'
 jobs:
   Update_GH_Pages:
     runs-on: ubuntu-latest
