@@ -28,24 +28,14 @@ jobs:
           php app.php
       - name: 🚀 Publishing To Github
         run: |
-          git config --global user.email "githubactionbot+envato@gmail.com" && git config --global user.name "Envato Items Updated !"
-          if [ "$(git status ./envato/ --porcelain)" != "" ]; then
-            echo "👌 Envato Items JSON Updated"
-            git add ./envato/.
-            git commit -m "📖 #$GITHUB_RUN_NUMBER - Envato Items Data Updated / ⚡ Triggered By $GITHUB_SHA"
+          git config --global user.email "githubactionbot@gmail.com" && git config --global user.name "JSON Updated !"
+          if [ "$(git status ./json/ --porcelain)" != "" ]; then
+            echo "👌 JSON Updated"
+            git add ./json/.
+            git commit -m "📖 #$GITHUB_RUN_NUMBER - JSON File Updated / ⚡ Triggered By $GITHUB_SHA"
             git push origin
           else
-            echo "✅ Envato Items : Nothing To Push"
-          fi
-
-          git config --global user.email "githubactionbot+wp@gmail.com" && git config --global user.name "WordPress Plugins Updated !"
-          if [ "$(git status ./wordpress.org/ --porcelain)" != "" ]; then
-            echo "👌 WordPress.org Plugins JSON Updated"
-            git add ./wordpress.org/.
-            git commit -m "📖 #$GITHUB_RUN_NUMBER - WordPress Plugins Data Updated / ⚡ Triggered By $GITHUB_SHA"
-            git push origin
-          else
-            echo "✅ Envato Items : Nothing To Push"
+            echo "✅ Nothing To Push"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
