@@ -1,6 +1,6 @@
 <?php
 define( 'APP_PATH', __DIR__ . '/' );
-define( 'SAVE_PATH', APP_PATH . '../../../envato/' );
+define( 'SAVE_PATH', APP_PATH . '../../../json/' );
 
 if ( ! file_exists( APP_PATH . 'vendor/autoload.php' ) ) {
 	die( '🛑 Envato API Library Not Found !' );
@@ -55,8 +55,8 @@ try {
 			repo_names( array( $data['slug'] => $data['name'] ) );
 		}
 
-		@mkdir( SAVE_PATH );
-		@file_put_contents( SAVE_PATH . 'items.json', json_encode( $final, JSON_PRETTY_PRINT ) );
+		@mkdir( SAVE_PATH, 0777, true );
+		@file_put_contents( SAVE_PATH . 'envato-items.json', json_encode( $final, JSON_PRETTY_PRINT ) );
 
 	}
 } catch ( \Exception $exception ) {

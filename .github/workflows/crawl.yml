@@ -54,7 +54,8 @@ jobs:
         with:
           GH_TOKEN: ${{secrets.GH_TOKEN}}
           GITHUB_USERNAME: "varunsridharan"
-          SAVE_LOCATION: "/gh/"
+          SAVE_LOCATION: "/json/"
+          FILE_NAME: "latest-repo.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           

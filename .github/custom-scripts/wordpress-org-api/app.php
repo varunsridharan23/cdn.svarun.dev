@@ -1,7 +1,7 @@
 <?php
 define( 'APP_PATH', __DIR__ . '/' );
 define( 'WP_USERNAME', 'varunms' );
-define( 'SAVE_PATH', APP_PATH . '../../../wordpress.org/' );
+define( 'SAVE_PATH', APP_PATH . '../../../json/' );
 
 if ( ! file_exists( APP_PATH . 'vendor/autoload.php' ) ) {
 	die( '🛑 WordPress.org API Library Not Found !' );
@@ -38,8 +38,8 @@ try {
 			$final[]           = $data;
 			repo_names( array( $data['slug'] => $data['name'] ) );
 		}
-		@mkdir( SAVE_PATH );
-		@file_put_contents( SAVE_PATH . 'plugins.json', json_encode( $final, JSON_PRETTY_PRINT ) );
+		@mkdir( SAVE_PATH, 0777, true );
+		@file_put_contents( SAVE_PATH . 'wordpress-org-items.json', json_encode( $final, JSON_PRETTY_PRINT ) );
 	}
 } catch ( Exception $exception ) {
 	$msg = '🛑 Unknown Error !!' . PHP_EOL . PHP_EOL;
