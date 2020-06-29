@@ -1,5 +1,4 @@
 {
-    "tag": "My Custom Tag Repo",
     "wp-user-role-renamer": "WP User Role Renamer",
     "wp-toobar-custom-link": "WordPress ToolBar Custom Link",
     "woocommerce-single-product-checkout": "WooCommerce Single Product Checkout",
@@ -35,5 +34,6 @@
     "role-based-add-to-cart-price-hide-for-woocommerce": "Role Based Add-To-Cart \/ Price Hide For Woocommerce",
     "role-based-payment-shipping-methods-for-woocommerce": "Role Based Payment \/ Shipping Methods For WooCommerce",
     "role-based-product-hide-for-woocommerce": "Role Based Product Hide For WooCommerce",
-    "bulk-price-updater-for-woocommerce": "Bulk Price Updater For WooCommerce"
+    "bulk-price-updater-for-woocommerce": "Bulk Price Updater For WooCommerce",
+    "tag": "My Custom Tag Repo"
 }
