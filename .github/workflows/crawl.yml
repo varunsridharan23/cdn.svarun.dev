@@ -21,7 +21,7 @@ jobs:
       - name: ⚒️Setting Up Envato API
         run: |
           cd .github/custom-scripts/envato-api && composer install --no-dev
-          php app.php ${{ secrets.ENVATO_JSON_TOKEN }}
+          php app.php ${{ secrets.ENVATO_TOKEN }}
       - name: ⚒️Setting Up WordPress.org API
         run: |
           cd .github/custom-scripts/wordpress-org-api && composer install --no-dev
