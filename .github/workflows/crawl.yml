@@ -42,7 +42,7 @@ jobs:
       - name: 📝 GH Latest Repo Generating JSON
         uses: varunsridharan/action-gh-latest-repo@master
         with:
-          GH_TOKEN: ${{ secrets.GH_PUBLIC_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PUBLIC_REPO }}
           GITHUB_USERNAME: "varunsridharan"
           SAVE_LOCATION: "/json/"
           FILE_NAME: "latest-repo.json"
