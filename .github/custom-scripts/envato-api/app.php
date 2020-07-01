@@ -32,11 +32,11 @@ try {
 			$data['name']         = $item->name;
 			$data['site']         = $item->site;
 			$data['url']          = $item->url;
-
-			$data['slug']      = strtolower( preg_replace( '~[^\pL\d]+~u', '-', $item->name ) );
-			$data['mini_slug'] = slugify( $data['slug'] );
-			$data['docs']      = 'https://plugin-docs.varunsridharan.in/' . $data['slug'];
-			$data['docs-git']  = 'https://github.com/vs-docs/' . $data['slug'];
+			$data['ref_url']      = 'https://1.envato.market/' . $item->id;
+			$data['slug']         = strtolower( preg_replace( '~[^\pL\d]+~u', '-', $item->name ) );
+			$data['mini_slug']    = slugify( $data['slug'] );
+			$data['docs']         = 'https://plugin-docs.varunsridharan.in/' . $data['slug'];
+			$data['docs-git']     = 'https://github.com/vs-docs/' . $data['slug'];
 
 			if ( isset( $item->previews->icon_with_video_preview ) ) {
 				$data['banner'] = $item->previews->icon_with_video_preview->landscape_url;
