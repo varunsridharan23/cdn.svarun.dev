@@ -1,6 +1,22 @@
 {
     "plugins": [
         {
+            "id": 14276992,
+            "updated_at": "2020-06-23T13:07:07+10:00",
+            "published_at": "2015-12-31T19:03:29+11:00",
+            "trending": false,
+            "name": "Bulk Price Updater For WooCommerce",
+            "site": "codecanyon.net",
+            "url": "https:\/\/codecanyon.net\/item\/woocommerce-bulk-price-updater\/14276992",
+            "ref_url": "https:\/\/1.envato.market\/14276992",
+            "slug": "bulk-price-updater-for-woocommerce",
+            "mini_slug": "bpuwc",
+            "docs": "https:\/\/p.sva.run\/bulk-price-updater-for-woocommerce",
+            "docs-git": "https:\/\/github.com\/vs-docs\/bulk-price-updater-for-woocommerce",
+            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/218825605\/Banner.jpg",
+            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/165333869\/icon.jpg"
+        },
+        {
             "id": 16902144,
             "updated_at": "2020-06-28T14:09:46+10:00",
             "published_at": "2016-07-04T16:13:31+10:00",
@@ -11,7 +27,7 @@
             "ref_url": "https:\/\/1.envato.market\/16902144",
             "slug": "role-based-product-hide-for-woocommerce",
             "mini_slug": "rbphwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-product-hide-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-product-hide-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-product-hide-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/221956244\/wcrbh_banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/221956243\/wcrbh_icon.jpg"
@@ -27,7 +43,7 @@
             "ref_url": "https:\/\/1.envato.market\/18953727",
             "slug": "role-based-payment-shipping-methods-for-woocommerce",
             "mini_slug": "rbpsmwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-payment-shipping-methods-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-payment-shipping-methods-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-payment-shipping-methods-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/221956160\/wcrb_spg_banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/221956158\/wcrb_spg_icon.jpg"
@@ -43,26 +59,10 @@
             "ref_url": "https:\/\/1.envato.market\/25132989",
             "slug": "role-based-add-to-cart-price-hide-for-woocommerce",
             "mini_slug": "rbatcphwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-add-to-cart-price-hide-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-add-to-cart-price-hide-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-add-to-cart-price-hide-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/276089310\/varun-banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/276089309\/icon.jpg"
-        },
-        {
-            "id": 14276992,
-            "updated_at": "2020-06-23T13:07:07+10:00",
-            "published_at": "2015-12-31T19:03:29+11:00",
-            "trending": false,
-            "name": "Bulk Price Updater For WooCommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/woocommerce-bulk-price-updater\/14276992",
-            "ref_url": "https:\/\/1.envato.market\/14276992",
-            "slug": "bulk-price-updater-for-woocommerce",
-            "mini_slug": "bpuwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/bulk-price-updater-for-woocommerce",
-            "docs-git": "https:\/\/github.com\/vs-docs\/bulk-price-updater-for-woocommerce",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/218825605\/Banner.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/165333869\/icon.jpg"
         },
         {
             "id": 15385857,
@@ -75,7 +75,7 @@
             "ref_url": "https:\/\/1.envato.market\/15385857",
             "slug": "advanced-product-reviews-for-woocommerce",
             "mini_slug": "aprwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/advanced-product-reviews-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/advanced-product-reviews-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/advanced-product-reviews-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/177499258\/APRWC_ENVATO.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/177499253\/envato-icon.jpg"
@@ -91,7 +91,7 @@
             "ref_url": "https:\/\/1.envato.market\/19531662",
             "slug": "zip-pin-postal-code-validator-for-woocommerce",
             "mini_slug": "zppcvwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/zip-pin-postal-code-validator-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/zip-pin-postal-code-validator-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/zip-pin-postal-code-validator-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/222019782\/01_Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/222019781\/00_Icon.jpg"
@@ -107,7 +107,7 @@
             "ref_url": "https:\/\/1.envato.market\/15369183",
             "slug": "role-based-force-sell-for-woocommerce",
             "mini_slug": "rbfswc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-force-sell-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-force-sell-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-force-sell-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/222095929\/force-sell-Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/222095928\/force-sell-Icon.jpg"
@@ -123,7 +123,7 @@
             "ref_url": "https:\/\/1.envato.market\/17219932",
             "slug": "role-based-up-cross-sell-for-woocommerce",
             "mini_slug": "rbucswc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-up-cross-sell-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-up-cross-sell-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-up-cross-sell-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/197407924\/WC-RBUCS.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/197407923\/WC-RBUCS-icon.jpg"
@@ -139,7 +139,7 @@
             "ref_url": "https:\/\/1.envato.market\/21305283",
             "slug": "role-based-tax-for-woocommerce",
             "mini_slug": "rbtwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-tax-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-tax-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-tax-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/288510057\/banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/288510056\/icon.jpg"
@@ -155,7 +155,7 @@
             "ref_url": "https:\/\/1.envato.market\/19912360",
             "slug": "cf7-international-sms",
             "mini_slug": "cf7is",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/cf7-international-sms",
+            "docs": "https:\/\/p.sva.run\/cf7-international-sms",
             "docs-git": "https:\/\/github.com\/vs-docs\/cf7-international-sms",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/225939631\/Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/225939626\/Icon.jpg"
@@ -171,7 +171,7 @@
             "ref_url": "https:\/\/1.envato.market\/19471296",
             "slug": "international-sms-for-woocommerce",
             "mini_slug": "iswc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/international-sms-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/international-sms-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/international-sms-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/221955761\/01_Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/221955760\/00_Icon.jpg"
@@ -187,7 +187,7 @@
             "ref_url": "https:\/\/1.envato.market\/19507616",
             "slug": "role-based-shipping-manager-for-woocommerce",
             "mini_slug": "rbsmwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-shipping-manager-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-shipping-manager-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-shipping-manager-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/221784020\/WCRBSM-Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/221784017\/WCRBSM-Icon.jpg"
@@ -203,7 +203,7 @@
             "ref_url": "https:\/\/1.envato.market\/14120734",
             "slug": "role-based-pricing-pro-for-woocommerce",
             "mini_slug": "rbppwc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/role-based-pricing-pro-for-woocommerce",
+            "docs": "https:\/\/p.sva.run\/role-based-pricing-pro-for-woocommerce",
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-pricing-pro-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/222239906\/wcrbp-banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/222239905\/wcrbp-Icon.jpg"
@@ -221,7 +221,7 @@
             "ref_url": "https:\/\/1.envato.market\/20568189",
             "slug": "happystore-simple-ecommerce-html-template",
             "mini_slug": "hseht",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/happystore-simple-ecommerce-html-template",
+            "docs": "https:\/\/p.sva.run\/happystore-simple-ecommerce-html-template",
             "docs-git": "https:\/\/github.com\/vs-docs\/happystore-simple-ecommerce-html-template",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/240178869\/screenshot-1.__large_preview.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/240178868\/icon.jpg"
@@ -237,7 +237,7 @@
             "ref_url": "https:\/\/1.envato.market\/22040324",
             "slug": "hacres-real-estate-html-template-corporate",
             "mini_slug": "hrehtc",
-            "docs": "https:\/\/plugin-docs.varunsridharan.in\/hacres-real-estate-html-template-corporate",
+            "docs": "https:\/\/p.sva.run\/hacres-real-estate-html-template-corporate",
             "docs-git": "https:\/\/github.com\/vs-docs\/hacres-real-estate-html-template-corporate",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/247971235\/01-banner.__large_preview.png",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/247971180\/icon.png"
