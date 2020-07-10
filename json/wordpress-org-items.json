@@ -457,7 +457,7 @@
         "last_updated": "2020-06-14 8:40am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.7.3.zip",
         "screenshots": {
             "1": {
@@ -641,7 +641,7 @@
         "last_updated": "2017-07-21 11:49am GMT",
         "added": "2017-07-21",
         "homepage": "http:\/\/wcpbpn.com",
-        "short_description": "This plugin will display notifications to shop customers about products they have already bought before&hellip;",
+        "short_description": "This plugin will display notifications to shop customers about products they have already bought before with information that is customization .",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-previously-bought-product-notifier.zip",
         "screenshots": {
             "1": {
@@ -774,7 +774,7 @@
         "tested": "5.4.2",
         "requires_php": "5.3",
         "rating": 100,
-        "downloaded": 34136,
+        "downloaded": 34137,
         "last_updated": "2020-06-02 10:19am GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
