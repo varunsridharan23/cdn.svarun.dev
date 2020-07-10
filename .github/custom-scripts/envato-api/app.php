@@ -35,8 +35,8 @@ try {
 			$data['ref_url']      = 'https://1.envato.market/' . $item->id;
 			$data['slug']         = strtolower( preg_replace( '~[^\pL\d]+~u', '-', $item->name ) );
 			$data['mini_slug']    = slugify( $data['slug'] );
-			$data['docs']         = 'https://p.sva.run/' . $data['slug'];
-			$data['changelog']    = 'https://p.sva.run/' . $data['slug'] . '/change-log';
+			$data['docs']         = 'https://p.sva.wiki/' . $data['slug'];
+			$data['changelog']    = 'https://p.sva.wiki/' . $data['slug'] . '/change-log';
 			$data['docs-git']     = 'https://github.com/vs-docs/' . $data['slug'];
 
 			if ( isset( $item->previews->icon_with_video_preview ) ) {
