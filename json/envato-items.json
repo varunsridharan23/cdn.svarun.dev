@@ -1,23 +1,6 @@
 {
     "plugins": [
         {
-            "id": 25132989,
-            "updated_at": "2020-06-28T15:31:28+10:00",
-            "published_at": "2019-11-23T01:47:04+11:00",
-            "trending": false,
-            "name": "Role Based Add-To-Cart \/ Price Hide For Woocommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/role-based-addtocart-price-hide-for-woocommerce\/25132989",
-            "ref_url": "https:\/\/1.envato.market\/25132989",
-            "slug": "role-based-add-to-cart-price-hide-for-woocommerce",
-            "mini_slug": "rbatcphwc",
-            "docs": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce",
-            "changelog": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce\/change-log",
-            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-add-to-cart-price-hide-for-woocommerce",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/276089310\/varun-banner.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/276089309\/icon.jpg"
-        },
-        {
             "id": 16902144,
             "updated_at": "2020-06-28T14:09:46+10:00",
             "published_at": "2016-07-04T16:13:31+10:00",
@@ -33,6 +16,23 @@
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-product-hide-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/221956244\/wcrbh_banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/221956243\/wcrbh_icon.jpg"
+        },
+        {
+            "id": 25132989,
+            "updated_at": "2020-06-28T15:31:28+10:00",
+            "published_at": "2019-11-23T01:47:04+11:00",
+            "trending": false,
+            "name": "Role Based Add-To-Cart \/ Price Hide For Woocommerce",
+            "site": "codecanyon.net",
+            "url": "https:\/\/codecanyon.net\/item\/role-based-addtocart-price-hide-for-woocommerce\/25132989",
+            "ref_url": "https:\/\/1.envato.market\/25132989",
+            "slug": "role-based-add-to-cart-price-hide-for-woocommerce",
+            "mini_slug": "rbatcphwc",
+            "docs": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce",
+            "changelog": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce\/change-log",
+            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-add-to-cart-price-hide-for-woocommerce",
+            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/276089310\/varun-banner.jpg",
+            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/276089309\/icon.jpg"
         },
         {
             "id": 14276992,
@@ -171,23 +171,6 @@
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/288510056\/icon.jpg"
         },
         {
-            "id": 14120734,
-            "updated_at": "2020-06-28T15:40:25+10:00",
-            "published_at": "2015-12-20T21:04:47+11:00",
-            "trending": false,
-            "name": "Role Based Pricing Pro For WooCommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/woocommerce-role-based-pricing-pro\/14120734",
-            "ref_url": "https:\/\/1.envato.market\/14120734",
-            "slug": "role-based-pricing-pro-for-woocommerce",
-            "mini_slug": "rbppwc",
-            "docs": "https:\/\/p.sva.wiki\/role-based-pricing-pro-for-woocommerce",
-            "changelog": "https:\/\/p.sva.wiki\/role-based-pricing-pro-for-woocommerce\/change-log",
-            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-pricing-pro-for-woocommerce",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/222239906\/wcrbp-banner.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/222239905\/wcrbp-Icon.jpg"
-        },
-        {
             "id": 19471296,
             "updated_at": "2020-06-28T15:31:32+10:00",
             "published_at": "2017-02-20T22:52:26+11:00",
@@ -220,6 +203,23 @@
             "docs-git": "https:\/\/github.com\/vs-docs\/cf7-international-sms",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/225939631\/Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/225939626\/Icon.jpg"
+        },
+        {
+            "id": 14120734,
+            "updated_at": "2020-06-28T15:40:25+10:00",
+            "published_at": "2015-12-20T21:04:47+11:00",
+            "trending": false,
+            "name": "Role Based Pricing Pro For WooCommerce",
+            "site": "codecanyon.net",
+            "url": "https:\/\/codecanyon.net\/item\/woocommerce-role-based-pricing-pro\/14120734",
+            "ref_url": "https:\/\/1.envato.market\/14120734",
+            "slug": "role-based-pricing-pro-for-woocommerce",
+            "mini_slug": "rbppwc",
+            "docs": "https:\/\/p.sva.wiki\/role-based-pricing-pro-for-woocommerce",
+            "changelog": "https:\/\/p.sva.wiki\/role-based-pricing-pro-for-woocommerce\/change-log",
+            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-pricing-pro-for-woocommerce",
+            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/222239906\/wcrbp-banner.jpg",
+            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/222239905\/wcrbp-Icon.jpg"
         }
     ],
     "html": [
