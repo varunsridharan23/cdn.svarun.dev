@@ -1,23 +1,6 @@
 {
     "plugins": [
         {
-            "id": 25132989,
-            "updated_at": "2020-06-28T15:31:28+10:00",
-            "published_at": "2019-11-23T01:47:04+11:00",
-            "trending": false,
-            "name": "Role Based Add-To-Cart \/ Price Hide For Woocommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/role-based-addtocart-price-hide-for-woocommerce\/25132989",
-            "ref_url": "https:\/\/1.envato.market\/25132989",
-            "slug": "role-based-add-to-cart-price-hide-for-woocommerce",
-            "mini_slug": "rbatcphwc",
-            "docs": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce",
-            "changelog": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce\/change-log",
-            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-add-to-cart-price-hide-for-woocommerce",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/276089310\/varun-banner.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/276089309\/icon.jpg"
-        },
-        {
             "id": 16902144,
             "updated_at": "2020-06-28T14:09:46+10:00",
             "published_at": "2016-07-04T16:13:31+10:00",
@@ -33,6 +16,23 @@
             "docs-git": "https:\/\/github.com\/vs-docs\/role-based-product-hide-for-woocommerce",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/221956244\/wcrbh_banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/221956243\/wcrbh_icon.jpg"
+        },
+        {
+            "id": 25132989,
+            "updated_at": "2020-06-28T15:31:28+10:00",
+            "published_at": "2019-11-23T01:47:04+11:00",
+            "trending": false,
+            "name": "Role Based Add-To-Cart \/ Price Hide For Woocommerce",
+            "site": "codecanyon.net",
+            "url": "https:\/\/codecanyon.net\/item\/role-based-addtocart-price-hide-for-woocommerce\/25132989",
+            "ref_url": "https:\/\/1.envato.market\/25132989",
+            "slug": "role-based-add-to-cart-price-hide-for-woocommerce",
+            "mini_slug": "rbatcphwc",
+            "docs": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce",
+            "changelog": "https:\/\/p.sva.wiki\/role-based-add-to-cart-price-hide-for-woocommerce\/change-log",
+            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-add-to-cart-price-hide-for-woocommerce",
+            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/276089310\/varun-banner.jpg",
+            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/276089309\/icon.jpg"
         },
         {
             "id": 14276992,
