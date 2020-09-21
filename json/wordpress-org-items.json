@@ -453,11 +453,11 @@
         "tested": "5.5.1",
         "requires_php": "7.0",
         "rating": 70,
-        "downloaded": 141482,
+        "downloaded": 141496,
         "last_updated": "2020-09-01 5:17am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.8.1.zip",
         "screenshots": {
             "1": {
@@ -547,7 +547,7 @@
         "tested": "5.2.7",
         "requires_php": false,
         "rating": 88,
-        "downloaded": 116610,
+        "downloaded": 116621,
         "last_updated": "2020-09-05 2:45am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -610,7 +610,7 @@
         "tested": "5.2.7",
         "requires_php": false,
         "rating": 98,
-        "downloaded": 7388,
+        "downloaded": 7399,
         "last_updated": "2020-06-14 8:54am GMT",
         "added": "2015-10-12",
         "homepage": "https:\/\/wordpress.org\/plugins\/sku-shortlink-for-woowommerce\/",
@@ -641,7 +641,7 @@
         "last_updated": "2017-07-21 11:49am GMT",
         "added": "2017-07-21",
         "homepage": "http:\/\/wcpbpn.com",
-        "short_description": "This plugin will display notifications to shop customers about products they have already bought before with information that is customization .",
+        "short_description": "This plugin will display notifications to shop customers about products they have already bought before&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-previously-bought-product-notifier.zip",
         "screenshots": {
             "1": {
@@ -778,7 +778,7 @@
         "last_updated": "2020-09-07 12:55pm GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
-        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.3.6.zip",
         "screenshots": {
             "1": {
