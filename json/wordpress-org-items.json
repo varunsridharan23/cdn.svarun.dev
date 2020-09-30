@@ -237,7 +237,7 @@
         "last_updated": "2019-05-04 12:46am GMT",
         "added": "2015-11-29",
         "homepage": "http:\/\/wordpress.org\/plugins\/cf7-international-sms-integration",
-        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your&hellip;",
+        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your contact form, using the API Configured By Site Admin",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/cf7-international-sms-integration.1.2.zip",
         "screenshots": {
             "1": {
