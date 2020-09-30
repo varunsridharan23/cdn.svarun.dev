@@ -48,6 +48,3 @@ jobs:
           FILE_NAME: "latest-repo.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-    
-
