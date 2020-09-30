@@ -5,7 +5,7 @@ on:
     - cron: '0 */8 * * *'
   push:
     branches:
-      - master
+      - main
     paths:
       - '.github/workflows/crawl.yml'
       - '.github/custom-scripts/*.php'
@@ -40,7 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 📝 GH Latest Repo Generating JSON
-        uses: varunsridharan/action-gh-latest-repo@master
+        uses: varunsridharan/action-gh-latest-repo@main
         with:
           GH_TOKEN: ${{ secrets.GH_PUBLIC_REPO }}
           GITHUB_USERNAME: "varunsridharan"
