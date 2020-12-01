@@ -15,7 +15,6 @@
     "live-admin-customzier": "Live Admin Customizer",
     "cf7-international-sms-integration": "International Sms For Contact Form 7 Integration",
     "estimated-dispatch-date-woocommerce": "Estimated Dispatch Date For WooCommerce",
-    "woocommerce-bulk-attribute-manager": "Bulk Attribute Manager For Woocommerce",
     "broken-url-notifier": "Broken Url Notifier",
     "wc-better-grouped-products": "Better Grouped Products For WooCommerce",
     "woocommerce-attributes-menu-manager": "Attributes Menu Manager For WooCommerce",
@@ -35,5 +34,6 @@
     "role-based-add-to-cart-price-hide-for-woocommerce": "Role Based Add-To-Cart \/ Price Hide For Woocommerce",
     "role-based-product-hide-for-woocommerce": "Role Based Product Hide For WooCommerce",
     "bulk-price-updater-for-woocommerce": "Bulk Price Updater For WooCommerce",
+    "woocommerce-bulk-attribute-manager": "Bulk Attribute Manager For Woocommerce",
     "tag": "My Custom Tag Repo"
 }
