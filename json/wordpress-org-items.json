@@ -11,7 +11,7 @@
         "last_updated": "2016-01-20 1:26am GMT",
         "added": "2014-10-01",
         "homepage": "http:\/\/varunsridharan.in\/",
-        "short_description": "Artificial Intelligence Image Resizer allows you to \nAdd image size to crop image dynamically with using code &amp; Remap Image Size.",
+        "short_description": "Artificial Intelligence Image Resizer allows you to Add image size to crop image dynamically with&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/aiirs-artificial-intelligence-image-resizer.0.4.zip",
         "screenshots": {
             "1": {
@@ -343,7 +343,7 @@
         "tested": "5.4.4",
         "requires_php": false,
         "rating": 84,
-        "downloaded": 40533,
+        "downloaded": 40544,
         "last_updated": "2020-06-14 8:46am GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -422,11 +422,11 @@
         "tested": "5.5.3",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 150272,
+        "downloaded": 150307,
         "last_updated": "2020-09-01 5:17am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.8.1.zip",
         "screenshots": {
             "1": {
@@ -516,7 +516,7 @@
         "tested": "5.2.9",
         "requires_php": false,
         "rating": 86,
-        "downloaded": 123269,
+        "downloaded": 123291,
         "last_updated": "2020-09-05 2:45am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -583,7 +583,7 @@
         "last_updated": "2017-07-21 11:49am GMT",
         "added": "2017-07-21",
         "homepage": "http:\/\/wcpbpn.com",
-        "short_description": "This plugin will display notifications to shop customers about products they have already bought before&hellip;",
+        "short_description": "This plugin will display notifications to shop customers about products they have already bought before with information that is customization .",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-previously-bought-product-notifier.zip",
         "screenshots": {
             "1": {
@@ -634,7 +634,7 @@
         "last_updated": "2017-07-20 6:49am GMT",
         "added": "2017-07-20",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-stock-status\/",
-        "short_description": "This plugin is used to write the custom stock status with different colors for each&hellip;",
+        "short_description": "This plugin is used to write the custom stock status with different colors for each woocommerce product or globally, let users to know exact stock sta &hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-product-stock-status.zip",
         "screenshots": {
             "1": {
@@ -716,7 +716,7 @@
         "tested": "5.6.1",
         "requires_php": "5.3",
         "rating": 100,
-        "downloaded": 39605,
+        "downloaded": 39616,
         "last_updated": "2021-01-08 3:36pm GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
