@@ -38,7 +38,8 @@ try {
 			$data['docs']         = 'https://p.sva.wiki/' . $data['slug'];
 			$data['changelog']    = 'https://p.sva.wiki/' . $data['slug'] . '/change-log';
 			$data['docs-git']     = 'https://github.com/vs-docs/' . $data['slug'];
-			$data['support']     = 'https://support.varunsridharan.in' . $item->id;
+			$data['support']     = 'https://support.varunsridharan.in/?submit-ticket=' . $item->id;
+			$data['demo_site']     = 'https://'.$data['slug'].'.sva.one';
 
 			if ( isset( $item->previews->icon_with_video_preview ) ) {
 				$data['banner'] = $item->previews->icon_with_video_preview->landscape_url;
