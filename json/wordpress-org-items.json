@@ -34,7 +34,7 @@
         "tested": false,
         "requires_php": false,
         "rating": 84,
-        "downloaded": 16336,
+        "downloaded": 16347,
         "last_updated": "2020-04-07 2:23am GMT",
         "added": "2015-02-12",
         "homepage": "http:\/\/varunsridharan.in\/",
@@ -206,7 +206,7 @@
         "last_updated": "2019-05-04 12:46am GMT",
         "added": "2015-11-29",
         "homepage": "http:\/\/wordpress.org\/plugins\/cf7-international-sms-integration",
-        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your&hellip;",
+        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your contact form, using the API Configured By Site Admin",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/cf7-international-sms-integration.1.2.zip",
         "screenshots": {
             "1": {
@@ -343,7 +343,7 @@
         "tested": "5.4.4",
         "requires_php": false,
         "rating": 84,
-        "downloaded": 40879,
+        "downloaded": 40890,
         "last_updated": "2020-06-14 8:46am GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -422,11 +422,11 @@
         "tested": "5.5.3",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 151311,
+        "downloaded": 151324,
         "last_updated": "2020-09-01 5:17am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.8.1.zip",
         "screenshots": {
             "1": {
@@ -516,7 +516,7 @@
         "tested": "5.2.9",
         "requires_php": false,
         "rating": 86,
-        "downloaded": 124028,
+        "downloaded": 124039,
         "last_updated": "2020-09-05 2:45am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -634,7 +634,7 @@
         "last_updated": "2017-07-20 6:49am GMT",
         "added": "2017-07-20",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-stock-status\/",
-        "short_description": "This plugin is used to write the custom stock status with different colors for each woocommerce product or globally, let users to know exact stock sta &hellip;",
+        "short_description": "This plugin is used to write the custom stock status with different colors for each&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-product-stock-status.zip",
         "screenshots": {
             "1": {
