@@ -51,9 +51,9 @@ try {
 
 
 			if ( 'codecanyon.net' === $data['site'] ) {
-				$final['plugins'][] = $data;
+				$final['plugins'][$data['slug']] = $data;
 			} elseif ( 'themeforest.net' === $data['site'] ) {
-				$final['html'][] = $data;
+				$final['html'][$data['slug']] = $data;
 			}
 			repo_names( array( $data['slug'] => $data['name'] ) );
 		}
