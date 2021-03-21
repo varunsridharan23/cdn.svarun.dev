@@ -206,7 +206,7 @@
         "last_updated": "2019-05-04 12:46am GMT",
         "added": "2015-11-29",
         "homepage": "http:\/\/wordpress.org\/plugins\/cf7-international-sms-integration",
-        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your contact form, using the API Configured By Site Admin",
+        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/cf7-international-sms-integration.1.2.zip",
         "screenshots": {
             "1": {
@@ -422,7 +422,7 @@
         "tested": "5.5.3",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 151603,
+        "downloaded": 151626,
         "last_updated": "2020-09-01 5:17am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
@@ -583,7 +583,7 @@
         "last_updated": "2017-07-21 11:49am GMT",
         "added": "2017-07-21",
         "homepage": "http:\/\/wcpbpn.com",
-        "short_description": "This plugin will display notifications to shop customers about products they have already bought before with information that is customization .",
+        "short_description": "This plugin will display notifications to shop customers about products they have already bought before&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-previously-bought-product-notifier.zip",
         "screenshots": {
             "1": {
@@ -693,7 +693,7 @@
         "tested": "4.4.24",
         "requires_php": false,
         "rating": 100,
-        "downloaded": 1169,
+        "downloaded": 1180,
         "last_updated": "2017-07-07 6:58am GMT",
         "added": "2015-10-30",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-user-role-based-coupon\/",
@@ -716,7 +716,7 @@
         "tested": "5.6.2",
         "requires_php": "5.3",
         "rating": 94,
-        "downloaded": 40713,
+        "downloaded": 40724,
         "last_updated": "2021-02-25 10:28am GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
