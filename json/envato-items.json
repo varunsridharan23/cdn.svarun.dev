@@ -171,6 +171,25 @@
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/197407924\/WC-RBUCS.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/197407923\/WC-RBUCS-icon.jpg"
         },
+        "advanced-product-stock-status-for-woocommerce": {
+            "id": 31062662,
+            "updated_at": "2021-03-21T23:09:02+11:00",
+            "published_at": "2021-03-21T20:06:20+11:00",
+            "trending": false,
+            "name": "Advanced Product Stock Status For WooCommerce",
+            "site": "codecanyon.net",
+            "url": "https:\/\/codecanyon.net\/item\/advanced-product-stock-status-for-woocommerce\/31062662",
+            "ref_url": "https:\/\/1.envato.market\/31062662",
+            "slug": "advanced-product-stock-status-for-woocommerce",
+            "mini_slug": "apsswc",
+            "docs": "https:\/\/p.sva.wiki\/advanced-product-stock-status-for-woocommerce",
+            "changelog": "https:\/\/p.sva.wiki\/advanced-product-stock-status-for-woocommerce\/change-log",
+            "docs-git": "https:\/\/github.com\/vs-docs\/advanced-product-stock-status-for-woocommerce",
+            "support": "https:\/\/support.varunsridharan.in\/?submit-ticket=31062662",
+            "demo_site": "https:\/\/advanced-product-stock-status-for-woocommerce.sva.one",
+            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/330110284\/banner.jpg",
+            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/330110283\/icon.jpg"
+        },
         "sku-shortlink-for-woocommerce": {
             "id": 30503405,
             "updated_at": "2021-02-18T14:57:51+11:00",
@@ -189,25 +208,6 @@
             "demo_site": "https:\/\/sku-shortlink-for-woocommerce.sva.one",
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/324000470\/banner.png",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/324000469\/icon.jpg"
-        },
-        "advanced-product-stock-status-for-woocommerce": {
-            "id": 31062662,
-            "updated_at": "2021-03-21T20:06:20+11:00",
-            "published_at": "2021-03-21T20:06:20+11:00",
-            "trending": false,
-            "name": "Advanced Product Stock Status For WooCommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/advanced-product-stock-status-for-woocommerce\/31062662",
-            "ref_url": "https:\/\/1.envato.market\/31062662",
-            "slug": "advanced-product-stock-status-for-woocommerce",
-            "mini_slug": "apsswc",
-            "docs": "https:\/\/p.sva.wiki\/advanced-product-stock-status-for-woocommerce",
-            "changelog": "https:\/\/p.sva.wiki\/advanced-product-stock-status-for-woocommerce\/change-log",
-            "docs-git": "https:\/\/github.com\/vs-docs\/advanced-product-stock-status-for-woocommerce",
-            "support": "https:\/\/support.varunsridharan.in\/?submit-ticket=31062662",
-            "demo_site": "https:\/\/advanced-product-stock-status-for-woocommerce.sva.one",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/327811613\/banner.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/327811612\/icon.jpg"
         },
         "role-based-shipping-manager-for-woocommerce": {
             "id": 19507616,
