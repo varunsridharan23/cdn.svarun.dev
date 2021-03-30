@@ -343,7 +343,7 @@
         "tested": "5.7",
         "requires_php": false,
         "rating": 84,
-        "downloaded": 42189,
+        "downloaded": 42368,
         "last_updated": "2021-03-26 8:25am GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -422,11 +422,11 @@
         "tested": "5.5.3",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 153012,
+        "downloaded": 153198,
         "last_updated": "2021-03-27 7:32am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.8.2.zip",
         "screenshots": {
             "1": {
@@ -516,7 +516,7 @@
         "tested": "5.2.9",
         "requires_php": false,
         "rating": 86,
-        "downloaded": 124487,
+        "downloaded": 124522,
         "last_updated": "2020-09-05 2:45am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -583,7 +583,7 @@
         "last_updated": "2017-07-21 11:49am GMT",
         "added": "2017-07-21",
         "homepage": "http:\/\/wcpbpn.com",
-        "short_description": "This plugin will display notifications to shop customers about products they have already bought before&hellip;",
+        "short_description": "This plugin will display notifications to shop customers about products they have already bought before with information that is customization .",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-previously-bought-product-notifier.zip",
         "screenshots": {
             "1": {
@@ -716,7 +716,7 @@
         "tested": "5.6.2",
         "requires_php": "5.3",
         "rating": 94,
-        "downloaded": 40847,
+        "downloaded": 40858,
         "last_updated": "2021-02-25 10:28am GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
@@ -742,53 +742,6 @@
         },
         "source-code": "https:\/\/github.com\/varunsridharan\/woocommerce-bulk-order-form",
         "mini_slug": "wcbof"
-    },
-    {
-        "name": "WooCommerce Single Product Checkout",
-        "slug": "woocommerce-single-product-checkout",
-        "version": "1.2",
-        "requires": "5.2",
-        "tested": "5.4.4",
-        "requires_php": "7.0",
-        "rating": 60,
-        "downloaded": 9748,
-        "last_updated": "2020-06-14 8:50am GMT",
-        "added": "2015-09-11",
-        "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-single-product-checkout\/",
-        "short_description": "Allows Shop Owners To Set Product To Be Sold Separately",
-        "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-single-product-checkout.1.2.zip",
-        "screenshots": {
-            "1": {
-                "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-1.jpg?rev=2290933",
-                "caption": "Plugin Menu"
-            },
-            "2": {
-                "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-2.jpg?rev=2290933",
-                "caption": "Plugin Settings"
-            },
-            "3": {
-                "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-3.jpg?rev=2290933",
-                "caption": "Plugin Settings"
-            },
-            "4": {
-                "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-4.jpg?rev=2290933",
-                "caption": "Plugin Settings"
-            },
-            "5": {
-                "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-5.jpg?rev=2290933",
-                "caption": "Plugin Settings"
-            },
-            "6": {
-                "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-6.jpg?rev=2290933",
-                "caption": "Plugin Settings"
-            },
-            "7": {
-                "src": "https:\/\/ps.w.org\/woocommerce-single-product-checkout\/assets\/screenshot-7.jpg?rev=2290933",
-                "caption": "Product Option"
-            }
-        },
-        "source-code": "https:\/\/github.com\/varunsridharan\/woocommerce-single-product-checkout",
-        "mini_slug": "wcspc"
     },
     {
         "name": "WordPress ToolBar Custom Link",
