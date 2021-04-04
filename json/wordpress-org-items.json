@@ -11,7 +11,7 @@
         "last_updated": "2016-01-20 1:26am GMT",
         "added": "2014-10-01",
         "homepage": "http:\/\/varunsridharan.in\/",
-        "short_description": "Artificial Intelligence Image Resizer allows you to \nAdd image size to crop image dynamically with using code &amp; Remap Image Size.",
+        "short_description": "Artificial Intelligence Image Resizer allows you to Add image size to crop image dynamically with&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/aiirs-artificial-intelligence-image-resizer.0.4.zip",
         "screenshots": {
             "1": {
@@ -206,7 +206,7 @@
         "last_updated": "2019-05-04 12:46am GMT",
         "added": "2015-11-29",
         "homepage": "http:\/\/wordpress.org\/plugins\/cf7-international-sms-integration",
-        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your contact form, using the API Configured By Site Admin",
+        "short_description": "Works with the Contact Form 7 plugin to send SMS notifications when somebody submits your&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/cf7-international-sms-integration.1.2.zip",
         "screenshots": {
             "1": {
@@ -280,7 +280,7 @@
         "tested": "5.0.11",
         "requires_php": false,
         "rating": 84,
-        "downloaded": 15773,
+        "downloaded": 15784,
         "last_updated": "2019-09-18 2:57am GMT",
         "added": "2015-10-26",
         "homepage": "https:\/\/wordpress.org\/plugins\/product-brands-for-woocommerce\/",
@@ -343,7 +343,7 @@
         "tested": "5.7",
         "requires_php": false,
         "rating": 84,
-        "downloaded": 42857,
+        "downloaded": 42917,
         "last_updated": "2021-03-26 8:25am GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -422,7 +422,7 @@
         "tested": "5.5.3",
         "requires_php": "7.0",
         "rating": 72,
-        "downloaded": 153775,
+        "downloaded": 153847,
         "last_updated": "2021-03-27 7:32am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
@@ -516,7 +516,7 @@
         "tested": "5.2.9",
         "requires_php": false,
         "rating": 86,
-        "downloaded": 124603,
+        "downloaded": 124625,
         "last_updated": "2020-09-05 2:45am GMT",
         "added": "2015-02-25",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-role-based-price\/",
@@ -716,11 +716,11 @@
         "tested": "5.6.2",
         "requires_php": "5.3",
         "rating": 94,
-        "downloaded": 40903,
+        "downloaded": 40914,
         "last_updated": "2021-02-25 10:28am GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
-        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single&hellip;",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.3.9.zip",
         "screenshots": {
             "1": {
