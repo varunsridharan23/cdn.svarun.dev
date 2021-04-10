@@ -39,3 +39,7 @@ function repo_names( $names ) {
 	$data = array_merge( $names, $data );
 	@file_put_contents( $path, json_encode( $data, JSON_PRETTY_PRINT ) );
 }
+
+function sort_envato_items_callback( $arr1, $arr2 ) {
+	return ( $arr2 < $arr1 );
+}
