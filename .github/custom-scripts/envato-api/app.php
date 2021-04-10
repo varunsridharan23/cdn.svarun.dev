@@ -59,11 +59,11 @@ try {
 		}
 
 		if ( isset( $final['plugins'] ) && ! empty( $final['plugins'] ) ) {
-			uasort( $final['plugins'], 'sort_arr' );
+			uasort( $final['plugins'], 'sort_envato_items_callback' );
 		}
 
 		if ( isset( $final['html'] ) && ! empty( $final['html'] ) ) {
-			uasort( $final['html'], 'sort_arr' );
+			uasort( $final['html'], 'sort_envato_items_callback' );
 		}
 
 		@mkdir( SAVE_PATH, 0777, true );
