@@ -38,8 +38,8 @@ try {
 			$data['docs']         = 'https://p.sva.wiki/' . $data['slug'];
 			$data['changelog']    = 'https://p.sva.wiki/' . $data['slug'] . '/change-log';
 			$data['docs-git']     = 'https://github.com/vs-docs/' . $data['slug'];
-			$data['support']     = 'https://support.varunsridharan.in/?submit-ticket=' . $item->id;
-			$data['demo_site']     = 'https://'.$data['slug'].'.sva.one';
+			$data['support']      = 'https://support.varunsridharan.in/?submit-ticket=' . $item->id;
+			$data['demo_site']    = 'https://' . $data['slug'] . '.sva.one';
 
 			if ( isset( $item->previews->icon_with_video_preview ) ) {
 				$data['banner'] = $item->previews->icon_with_video_preview->landscape_url;
@@ -51,11 +51,19 @@ try {
 
 
 			if ( 'codecanyon.net' === $data['site'] ) {
-				$final['plugins'][$data['slug']] = $data;
+				$final['plugins'][ $data['slug'] ] = $data;
 			} elseif ( 'themeforest.net' === $data['site'] ) {
-				$final['html'][$data['slug']] = $data;
+				$final['html'][ $data['slug'] ] = $data;
 			}
 			repo_names( array( $data['slug'] => $data['name'] ) );
+		}
+
+		if ( isset( $final['plugins'] ) && ! empty( $final['plugins'] ) ) {
+			uasort( $final['plugins'], 'sort_arr' );
+		}
+
+		if ( isset( $final['html'] ) && ! empty( $final['html'] ) ) {
+			uasort( $final['html'], 'sort_arr' );
 		}
 
 		@mkdir( SAVE_PATH, 0777, true );
