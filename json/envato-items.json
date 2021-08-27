@@ -38,25 +38,6 @@
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/218825605\/Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/165333869\/icon.jpg"
         },
-        "role-based-force-synced-sell-for-woocommerce": {
-            "id": 15369183,
-            "updated_at": "2021-04-01T21:00:23+11:00",
-            "published_at": "2016-03-19T19:40:40+11:00",
-            "trending": false,
-            "name": "Role Based Force \/ Synced Sell For WooCommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/woocommerce-role-based-force-sell\/15369183",
-            "ref_url": "https:\/\/1.envato.market\/15369183",
-            "slug": "role-based-force-synced-sell-for-woocommerce",
-            "mini_slug": "rbfsswc",
-            "docs": "https:\/\/p.sva.wiki\/role-based-force-synced-sell-for-woocommerce",
-            "changelog": "https:\/\/p.sva.wiki\/role-based-force-synced-sell-for-woocommerce\/change-log",
-            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-force-synced-sell-for-woocommerce",
-            "support": "https:\/\/support.varunsridharan.in\/?submit-ticket=15369183",
-            "demo_site": "https:\/\/role-based-force-synced-sell-for-woocommerce.sva.one",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/222095929\/force-sell-Banner.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/222095928\/force-sell-Icon.jpg"
-        },
         "advanced-product-reviews-for-woocommerce": {
             "id": 15385857,
             "updated_at": "2016-05-13T23:49:34+10:00",
