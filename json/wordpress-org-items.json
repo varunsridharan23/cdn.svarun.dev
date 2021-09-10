@@ -4,14 +4,14 @@
         "slug": "woocommerce-bulk-order-form",
         "version": "3.3.10",
         "requires": "4.0",
-        "tested": "5.7.2",
+        "tested": "5.7.3",
         "requires_php": "5.3",
         "rating": 94,
-        "downloaded": 43352,
+        "downloaded": 43363,
         "last_updated": "2021-05-25 1:23pm GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
-        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single&hellip;",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.3.10.zip",
         "screenshots": {
             "1": {
