@@ -38,25 +38,6 @@
             "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/218825605\/Banner.jpg",
             "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/165333869\/icon.jpg"
         },
-        "role-based-up-cross-sell-for-woocommerce": {
-            "id": 17219932,
-            "updated_at": "2020-06-28T15:31:32+10:00",
-            "published_at": "2016-07-27T16:32:45+10:00",
-            "trending": false,
-            "name": "Role Based Up \/ Cross Sell For WooCommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/woocommerce-role-based-up-cross-sell\/17219932",
-            "ref_url": "https:\/\/1.envato.market\/17219932",
-            "slug": "role-based-up-cross-sell-for-woocommerce",
-            "mini_slug": "rbucswc",
-            "docs": "https:\/\/p.sva.wiki\/role-based-up-cross-sell-for-woocommerce",
-            "changelog": "https:\/\/p.sva.wiki\/role-based-up-cross-sell-for-woocommerce\/change-log",
-            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-up-cross-sell-for-woocommerce",
-            "support": "https:\/\/support.varunsridharan.in\/?submit-ticket=17219932",
-            "demo_site": "https:\/\/role-based-up-cross-sell-for-woocommerce.sva.one",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/197407924\/WC-RBUCS.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/197407923\/WC-RBUCS-icon.jpg"
-        },
         "role-based-payment-shipping-methods-for-woocommerce": {
             "id": 18953727,
             "updated_at": "2021-03-27T17:06:13+11:00",
