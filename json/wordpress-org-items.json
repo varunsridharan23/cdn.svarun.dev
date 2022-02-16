@@ -7,7 +7,7 @@
         "tested": "5.9",
         "requires_php": false,
         "rating": 86,
-        "downloaded": 48431,
+        "downloaded": 48773,
         "last_updated": "2022-02-11 2:30am GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -79,6 +79,45 @@
         "mini_slug": "wcps"
     },
     {
+        "name": "Quick Buy For Woocommerce",
+        "slug": "woocommerce-quick-buy",
+        "version": "2.8.4",
+        "requires": "3.0",
+        "tested": "5.9",
+        "requires_php": "7.0",
+        "rating": 72,
+        "downloaded": 162214,
+        "last_updated": "2022-02-12 1:35am GMT",
+        "added": "2014-12-04",
+        "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
+        "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.8.4.zip",
+        "screenshots": {
+            "1": {
+                "src": "https:\/\/ps.w.org\/woocommerce-quick-buy\/assets\/screenshot-1.jpg?rev=2157616",
+                "caption": "WC Quick Buy Settings"
+            },
+            "2": {
+                "src": "https:\/\/ps.w.org\/woocommerce-quick-buy\/assets\/screenshot-2.jpg?rev=2370030",
+                "caption": "WC Quick Buy Settings"
+            },
+            "3": {
+                "src": "https:\/\/ps.w.org\/woocommerce-quick-buy\/assets\/screenshot-3.jpg?rev=2157616",
+                "caption": "WC Quick Buy Settings"
+            },
+            "4": {
+                "src": "https:\/\/ps.w.org\/woocommerce-quick-buy\/assets\/screenshot-4.jpg?rev=2157616",
+                "caption": "WC Quick Buy Settings"
+            },
+            "5": {
+                "src": "https:\/\/ps.w.org\/woocommerce-quick-buy\/assets\/screenshot-5.jpg?rev=2157616",
+                "caption": "WC Quick Buy Settings"
+            }
+        },
+        "source-code": "https:\/\/github.com\/varunsridharan\/woocommerce-quick-buy",
+        "mini_slug": "wcqb"
+    },
+    {
         "name": "WooCommerce Quick\/Bulk Order Form",
         "slug": "woocommerce-bulk-order-form",
         "version": "3.4.0",
@@ -86,7 +125,7 @@
         "tested": "5.8.3",
         "requires_php": "5.3",
         "rating": 96,
-        "downloaded": 46734,
+        "downloaded": 46756,
         "last_updated": "2021-12-21 3:07pm GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
