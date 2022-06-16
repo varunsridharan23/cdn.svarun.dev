@@ -1,24 +1,5 @@
 {
     "plugins": {
-        "role-based-pricing-pro-for-woocommerce": {
-            "id": 14120734,
-            "updated_at": "2020-06-28T15:40:25+10:00",
-            "published_at": "2015-12-20T21:04:47+11:00",
-            "trending": false,
-            "name": "Role Based Pricing Pro For WooCommerce",
-            "site": "codecanyon.net",
-            "url": "https:\/\/codecanyon.net\/item\/woocommerce-role-based-pricing-pro\/14120734",
-            "ref_url": "https:\/\/1.envato.market\/14120734",
-            "slug": "role-based-pricing-pro-for-woocommerce",
-            "mini_slug": "rbppwc",
-            "docs": "https:\/\/p.sva.wiki\/role-based-pricing-pro-for-woocommerce",
-            "changelog": "https:\/\/p.sva.wiki\/role-based-pricing-pro-for-woocommerce\/change-log",
-            "docs-git": "https:\/\/github.com\/vs-docs\/role-based-pricing-pro-for-woocommerce",
-            "support": "https:\/\/support.varunsridharan.in\/?submit-ticket=14120734",
-            "demo_site": "https:\/\/role-based-pricing-pro-for-woocommerce.sva.one",
-            "banner": "https:\/\/previews.customer.envatousercontent.com\/files\/222239906\/wcrbp-banner.jpg",
-            "icon": "https:\/\/previews.customer.envatousercontent.com\/files\/222239905\/wcrbp-Icon.jpg"
-        },
         "bulk-price-updater-for-woocommerce": {
             "id": 14276992,
             "updated_at": "2021-05-29T05:09:02+10:00",
