@@ -7,7 +7,7 @@
         "tested": "5.9.4",
         "requires_php": false,
         "rating": 88,
-        "downloaded": 57692,
+        "downloaded": 57714,
         "last_updated": "2022-05-20 1:34pm GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -86,11 +86,11 @@
         "tested": "5.9.4",
         "requires_php": "7.0",
         "rating": 74,
-        "downloaded": 170213,
+        "downloaded": 170248,
         "last_updated": "2022-02-12 1:35am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.8.4.zip",
         "screenshots": {
             "1": {
