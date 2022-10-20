@@ -7,7 +7,7 @@
         "tested": "5.9.5",
         "requires_php": false,
         "rating": 88,
-        "downloaded": 57891,
+        "downloaded": 57914,
         "last_updated": "2022-05-20 1:34pm GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -86,7 +86,7 @@
         "tested": "5.9.5",
         "requires_php": "7.0",
         "rating": 74,
-        "downloaded": 170542,
+        "downloaded": 170565,
         "last_updated": "2022-02-12 1:35am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
@@ -116,5 +116,40 @@
         },
         "source-code": "https:\/\/github.com\/varunsridharan\/woocommerce-quick-buy",
         "mini_slug": "wcqb"
+    },
+    {
+        "name": "Quick\/Bulk Order Form for WooCommerce",
+        "slug": "woocommerce-bulk-order-form",
+        "version": "3.5.4",
+        "requires": "4.0",
+        "tested": "6.0.3",
+        "requires_php": "5.3",
+        "rating": 96,
+        "downloaded": 49728,
+        "last_updated": "2022-10-18 1:43pm GMT",
+        "added": "2014-03-06",
+        "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
+        "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.5.4.zip",
+        "screenshots": {
+            "1": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-1.png?rev=988576",
+                "caption": false
+            },
+            "2": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-2.png?rev=988576",
+                "caption": false
+            },
+            "3": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-3.png?rev=988576",
+                "caption": false
+            },
+            "4": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-4.png?rev=988576",
+                "caption": false
+            }
+        },
+        "source-code": "https:\/\/github.com\/varunsridharan\/woocommerce-bulk-order-form",
+        "mini_slug": "wcbof"
     }
 ]
