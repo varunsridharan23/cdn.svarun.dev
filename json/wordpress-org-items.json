@@ -7,7 +7,7 @@
         "tested": "5.9.5",
         "requires_php": false,
         "rating": 88,
-        "downloaded": 57969,
+        "downloaded": 57991,
         "last_updated": "2022-05-20 1:34pm GMT",
         "added": "2016-01-14",
         "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-subtitle",
@@ -86,11 +86,11 @@
         "tested": "5.9.5",
         "requires_php": "7.0",
         "rating": 74,
-        "downloaded": 170656,
+        "downloaded": 170679,
         "last_updated": "2022-02-12 1:35am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
-        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click quick buy button",
+        "short_description": "Add Quick buy button to redirect user to checkout \/ cart immediately when he click&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-quick-buy.2.8.4.zip",
         "screenshots": {
             "1": {
@@ -125,11 +125,11 @@
         "tested": "6.0.3",
         "requires_php": "5.3",
         "rating": 96,
-        "downloaded": 50029,
+        "downloaded": 50063,
         "last_updated": "2022-10-18 1:43pm GMT",
         "added": "2014-03-06",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-bulk-order-form\/",
-        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single&hellip;",
         "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.5.4.zip",
         "screenshots": {
             "1": {
