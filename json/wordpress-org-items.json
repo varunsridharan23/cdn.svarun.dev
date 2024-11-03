@@ -1,5 +1,41 @@
 [
     {
+        "name": "Bulk Order Form for WooCommerce",
+        "slug": "woocommerce-bulk-order-form",
+        "version": "3.6.8",
+        "requires": "4.0",
+        "tested": "6.7",
+        "requires_php": "7.2",
+        "requires_plugins": [],
+        "rating": 92,
+        "downloaded": 64999,
+        "last_updated": "2024-11-01 8:02am GMT",
+        "added": "2014-03-06",
+        "homepage": "https:\/\/wpovernight.com\/downloads\/woocommerce-bulk-order-form\/",
+        "short_description": "Automatically add a bulk or quick order form to your WooCommerce site with a single shortcode.",
+        "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-bulk-order-form.3.6.8.zip",
+        "screenshots": {
+            "1": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-1.png?rev=988576",
+                "caption": ""
+            },
+            "2": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-2.png?rev=988576",
+                "caption": ""
+            },
+            "3": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-3.png?rev=988576",
+                "caption": ""
+            },
+            "4": {
+                "src": "https:\/\/ps.w.org\/woocommerce-bulk-order-form\/assets\/screenshot-4.png?rev=988576",
+                "caption": ""
+            }
+        },
+        "source-code": "https:\/\/github.com\/varunsridharan\/woocommerce-bulk-order-form",
+        "mini_slug": "wcbof"
+    },
+    {
         "name": "Product Subtitle For WooCommerce",
         "slug": "wc-product-subtitle",
         "version": "4.6.2",
@@ -88,7 +124,7 @@
         "requires_php": "7.0",
         "requires_plugins": [],
         "rating": 74,
-        "downloaded": 181817,
+        "downloaded": 181828,
         "last_updated": "2022-02-12 1:35am GMT",
         "added": "2014-12-04",
         "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-quick-buy\/",
