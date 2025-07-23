@@ -2,8 +2,8 @@
     "plugins": {
         "bulk-price-updater-for-woocommerce": {
             "id": 14276992,
-            "updated_at": "2021-05-29T05:09:02+10:00",
-            "published_at": "2015-12-31T19:03:29+11:00",
+            "updated_at": "2021-05-29T05:09:02+00:00",
+            "published_at": "2015-12-31T19:03:29+00:00",
             "trending": false,
             "name": "Bulk Price Updater For WooCommerce",
             "site": "codecanyon.net",
@@ -21,8 +21,8 @@
         },
         "international-sms-for-woocommerce": {
             "id": 19471296,
-            "updated_at": "2020-06-28T15:31:32+10:00",
-            "published_at": "2017-02-20T22:52:26+11:00",
+            "updated_at": "2020-06-28T15:31:32+00:00",
+            "published_at": "2017-02-20T22:52:26+00:00",
             "trending": false,
             "name": "International SMS For WooCommerce",
             "site": "codecanyon.net",
@@ -40,8 +40,8 @@
         },
         "role-based-shipping-manager-for-woocommerce": {
             "id": 19507616,
-            "updated_at": "2020-06-28T15:31:32+10:00",
-            "published_at": "2017-02-27T17:50:09+11:00",
+            "updated_at": "2020-06-28T15:31:32+00:00",
+            "published_at": "2017-02-27T17:50:09+00:00",
             "trending": false,
             "name": "Role Based Shipping Manager For WooCommerce",
             "site": "codecanyon.net",
@@ -59,8 +59,8 @@
         },
         "zip-pin-postal-code-validator-for-woocommerce": {
             "id": 19531662,
-            "updated_at": "2021-03-26T16:19:09+11:00",
-            "published_at": "2017-03-03T22:31:11+11:00",
+            "updated_at": "2021-03-26T16:19:09+00:00",
+            "published_at": "2017-03-03T22:31:11+00:00",
             "trending": false,
             "name": "Zip\/Pin\/Postal Code Validator For WooCommerce",
             "site": "codecanyon.net",
@@ -78,8 +78,8 @@
         },
         "cf7-international-sms": {
             "id": 19912360,
-            "updated_at": "2017-09-13T01:34:05+10:00",
-            "published_at": "2017-05-11T16:46:53+10:00",
+            "updated_at": "2017-09-13T01:34:05+00:00",
+            "published_at": "2017-05-11T16:46:53+00:00",
             "trending": false,
             "name": "CF7 International SMS",
             "site": "codecanyon.net",
@@ -97,8 +97,8 @@
         },
         "role-based-tax-for-woocommerce": {
             "id": 21305283,
-            "updated_at": "2021-03-26T16:36:56+11:00",
-            "published_at": "2018-02-13T13:02:14+11:00",
+            "updated_at": "2021-03-26T16:36:56+00:00",
+            "published_at": "2018-02-13T13:02:14+00:00",
             "trending": false,
             "name": "Role Based Tax For WooCommerce",
             "site": "codecanyon.net",
@@ -116,8 +116,8 @@
         },
         "role-based-add-to-cart-price-hide-for-woocommerce": {
             "id": 25132989,
-            "updated_at": "2020-06-28T15:31:28+10:00",
-            "published_at": "2019-11-23T01:47:04+11:00",
+            "updated_at": "2020-06-28T15:31:28+00:00",
+            "published_at": "2019-11-23T01:47:04+00:00",
             "trending": false,
             "name": "Role Based Add-To-Cart \/ Price Hide For Woocommerce",
             "site": "codecanyon.net",
@@ -135,8 +135,8 @@
         },
         "sku-shortlink-for-woocommerce": {
             "id": 30503405,
-            "updated_at": "2021-03-27T15:40:21+11:00",
-            "published_at": "2021-02-15T16:55:41+11:00",
+            "updated_at": "2021-03-27T15:40:21+00:00",
+            "published_at": "2021-02-15T16:55:41+00:00",
             "trending": false,
             "name": "SKU Shortlink For WooCommerce",
             "site": "codecanyon.net",
@@ -154,8 +154,8 @@
         },
         "single-product-checkout-for-woocommerce": {
             "id": 30635021,
-            "updated_at": "2021-03-29T17:40:05+11:00",
-            "published_at": "2021-03-29T16:52:50+11:00",
+            "updated_at": "2021-03-29T17:40:05+00:00",
+            "published_at": "2021-03-29T16:52:50+00:00",
             "trending": false,
             "name": "Single Product Checkout For WooCommerce",
             "site": "codecanyon.net",
@@ -173,8 +173,8 @@
         },
         "role-based-payment-gateway-fees-for-woocommerce": {
             "id": 31018990,
-            "updated_at": "2021-03-26T19:17:37+11:00",
-            "published_at": "2021-03-05T22:29:02+11:00",
+            "updated_at": "2021-03-26T19:17:37+00:00",
+            "published_at": "2021-03-05T22:29:02+00:00",
             "trending": false,
             "name": "Role Based Payment Gateway Fees For WooCommerce",
             "site": "codecanyon.net",
@@ -192,8 +192,8 @@
         },
         "advanced-product-stock-status-for-woocommerce": {
             "id": 31062662,
-            "updated_at": "2021-03-26T16:43:00+11:00",
-            "published_at": "2021-03-21T20:06:20+11:00",
+            "updated_at": "2021-03-26T16:43:00+00:00",
+            "published_at": "2021-03-21T20:06:20+00:00",
             "trending": false,
             "name": "Advanced Product Stock Status For WooCommerce",
             "site": "codecanyon.net",
@@ -213,8 +213,8 @@
     "html": {
         "happystore-simple-ecommerce-html-template": {
             "id": 20568189,
-            "updated_at": "2018-01-26T01:58:32+11:00",
-            "published_at": "2018-01-26T01:58:32+11:00",
+            "updated_at": "2018-01-26T01:58:32+00:00",
+            "published_at": "2018-01-26T01:58:32+00:00",
             "trending": false,
             "name": "HappyStore | Simple eCommerce HTML Template",
             "site": "themeforest.net",
@@ -232,8 +232,8 @@
         },
         "hacres-real-estate-html-template-corporate": {
             "id": 22040324,
-            "updated_at": "2018-06-15T01:07:01+10:00",
-            "published_at": "2018-06-15T01:07:01+10:00",
+            "updated_at": "2018-06-15T01:07:01+00:00",
+            "published_at": "2018-06-15T01:07:01+00:00",
             "trending": false,
             "name": "Hacres-Real Estate HTML Template | Corporate",
             "site": "themeforest.net",
